@@ -100,22 +100,18 @@ main .cartao-pokemon .tipo{
 
 .venenoso{
     background-color: #B48BD5;
-    color: #FFFFFF;
 }
 
 .fogo{
     background-color: #E97C22;
-    color: #FFFFFF;
 }
 
 .agua{
     background-color: #4D9CCF;
-    color: #FFFFFF;
 }
 
 .inseto{
     background-color: #A6B91A;
-    color: #FFFFFF;
 }
 
 .voador{
@@ -140,17 +136,14 @@ main .cartao-pokemon .tipo{
 
 .lutador{
     background-color: #CB5023;
-    color: #FFFFFF;
 }
 
 .psiquico{
     background-color: #DF67DDFB;
-    color: #FFFFFF;
 }
 
 .pedra{
     background-color: #B19D41;
-    color: #FFFFFF;
 }
 
 .aco{
@@ -163,12 +156,10 @@ main .cartao-pokemon .tipo{
 
 .fantasma{
     background-color: #765A8F;
-    color: #FFFFFF;
 }
 
 .dragao{
     background-image: linear-gradient(to bottom, #5D97D0 50%, #EC6F52 50%);
-    color: #FFFFFF;
 }
 
 main .descricao{
